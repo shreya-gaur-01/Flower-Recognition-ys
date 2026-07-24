@@ -1,4 +1,4 @@
 langchain-core
 langchain-groq
-tensorflow
+tensorflow==2.12.1
 streamlit
