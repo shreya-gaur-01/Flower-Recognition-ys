@@ -1,0 +1,10 @@
+s=0
+a1=int(input('enter no'))
+s=s+a1
+a2=int(input('enter no'))
+s=s+a2
+a3=int(input('enter no'))
+s=s+a3
+a4=int(input('enetr no'))
+s=s+a4
+print('sum=',s)
