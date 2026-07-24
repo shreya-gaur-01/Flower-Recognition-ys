@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🖼️ Image Topic Prediction using LLM")
+st.title("🖼️ Flower Recognition by uploading Image")
 
 # Create two columns
 col1, col2 = st.columns([1, 2])
