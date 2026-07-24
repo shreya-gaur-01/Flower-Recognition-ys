@@ -1,6 +1,6 @@
 tensorflow==2.12.1
-streamlit
-langchain-core
-langchain-groq
+streamlit==1.59.1
+langchain-core==1.4.9
+langchain-groq==1.1.3
 
 
