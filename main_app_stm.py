@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🖼️ Flower Recognition by uploading Image")
+st.title("🖼️ Get to know more about your flower")
 
 # Create two columns
 col1, col2 = st.columns([1, 2])
