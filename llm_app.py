@@ -1,9 +1,9 @@
-def llm_app(topic):
+def llm_app(topic, groq_api):
 
  from langchain_core.prompts import PromptTemplate
  from langchain_groq import ChatGroq
  # 1. Initialize your LLM
- groq_api = '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'
+
  llm = ChatGroq(model='openai/gpt-oss-120b', api_key=groq_api, temperature=0.1)
 
  prompt=PromptTemplate(
